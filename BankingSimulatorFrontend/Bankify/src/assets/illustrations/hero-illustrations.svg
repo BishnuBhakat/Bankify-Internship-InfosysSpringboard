@@ -1,0 +1,7 @@
+<!-- Simple decorative hero illustration SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" fill="none">
+  <rect width="600" height="300" rx="20" fill="#e0f2fe"></rect>
+  <circle cx="120" cy="150" r="70" fill="#bae6fd"></circle>
+  <rect x="240" y="90" width="200" height="120" rx="12" fill="#7dd3fc"></rect>
+  <text x="60" y="160" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#0369a1">Smart Banking</text>
+</svg>
