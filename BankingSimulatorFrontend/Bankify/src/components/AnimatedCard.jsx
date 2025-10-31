@@ -18,4 +18,4 @@ const AnimatedCard = ({ title, subtitle, onClick }) => { // Props for title, sub
   );
 };
 
-export default AnimatedCard; // Export AnimatedCard component
+export default AnimatedCard; 
